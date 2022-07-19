@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm hagnoykmik
 
-I love coding 💓
+
+*__"Life is too short, You need python'"__*
+
 
 [![hagnoykmik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hagnoykmik)](https://github.com/anuraghazra/github-readme-stats)
 
