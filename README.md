@@ -36,8 +36,9 @@
   ### :office: Project
   <div> - OVER THE TOP : OTT별 맞춤 영화 추천 서비스 / Backend / :trophy: 우수 프로젝트 선정 </div>
   <div> - PLAN!T : 여행 계획 All-in-one 플랫폼 서비스 / Backend / :trophy: 최우수 프로젝트 선정 </div>
-  <div> - 취:향 : 빅데이터 기반 향수 추천 서비스 / Full-stack </div>
-  <div> <a href="https://makeyourpreference.com/" target="_blank"><img src="https://img.shields.io/badge/취:향 바로가기-faf0e6?style=for-the-badge"></a> </div>
+  <div> - 취:향 : 빅데이터 기반 향수 추천 서비스 / Full-stack  
+    <a href="https://makeyourpreference.com/" target="_blank"><img src="https://img.shields.io/badge/취:향 바로가기-000?style=flat-round-square"></a> 
+  </div>
   <div>- Fri : SSAFY내 커뮤니티 서비스 / Backend </div> 
 </div>
 </br>
