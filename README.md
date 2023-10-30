@@ -27,7 +27,7 @@
    
   <br/>
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hagnoykmik)](https://github.com/hagnoykmik/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hagnoykmik)](https://velog.io/@hagnoykmik)
   <br/>
 </div> 
 
