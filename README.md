@@ -52,3 +52,8 @@
 
 </div>
 
+<div align="center"> 
+  <a>
+    <img src="https://img.shields.io/badge/rlaryddk1221@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
+</div>
