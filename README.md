@@ -38,8 +38,8 @@
 |------|---|---|---|---|
 |<b>Fri</b>|SSAFY내 커뮤니티 서비스|Backend|SSAFY|
 |<b>취:향</b>|빅데이터 기반 향수 추천 서비스|Fullstack|SSAFY|<a href="https://makeyourpreference.com/" target="_blank"><img src="https://img.shields.io/badge/취:향 바로가기-000?style=flat-round-square"></a> |
-|PLAN!T|실시간 화상채팅을 이용한 볼링 매칭 및 볼링 전적 통계 서비스|Frontend|SSAFY|:trophy:  <b>최우수 프로젝트 선정</b>|
-|OVER THE TOP|OTT별 맞춤 영화 추천 서비스|Backend|SSAFY|:trophy:  <b>우수 프로젝트 선정</b>|
+|<b>PLAN!T</b>|여행 계획 All in One 플랫폼 서비스|Frontend|SSAFY|:trophy:  <b>최우수 프로젝트 선정</b>|
+|<b>OVER THE TOP</b>|OTT별 맞춤 영화 추천 서비스|Backend|SSAFY|:trophy:  <b>우수 프로젝트 선정</b>|
 
 
 
