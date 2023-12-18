@@ -21,7 +21,6 @@
   <br/>
   <br/>
   
-
   
   ### :pencil2: Study Blog
    
