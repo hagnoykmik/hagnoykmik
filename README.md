@@ -38,11 +38,7 @@
 
 
 
-<div align="center"> 
 
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=rlaruddk)](https://solved.ac/rlaruddk)
-
-</div>
 
 <div align="center"> 
   <a>
